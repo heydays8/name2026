@@ -1,0 +1,10 @@
+{
+  "name": "이동수업 QR 출석부",
+  "description": "초·중·고 교실 현장을 위한 스마트 이동수업 QR 출석 체크 및 구글 시트 연동 관리 시스템",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
